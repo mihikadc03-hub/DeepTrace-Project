@@ -1,5 +1,5 @@
 # Small Language Model (SLM)
-mall Language Model (SLM) on TinyStories — full project
+Small Language Model (SLM) on TinyStories — full project
 This implements all 8 tasks from the project doc: a small GPT-style transformer
 trained from scratch on the TinyStories dataset, including data prep, model,
 training, evaluation, and inference.
